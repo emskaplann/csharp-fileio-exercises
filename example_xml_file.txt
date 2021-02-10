@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Users>
+
+<User FirstName="Adam" LastName="Yoblick" Profession="Software Engineer">
+
+<Address Street="123 Main St" City="Redmond" State="WA" Zip="12345"></Address>
+
+</User>
+
+<User FirstName="Batman" Profession="Crime Fighter">
+
+<Address Street="Batcave"></Address>
+
+</User>
+
+</Users>
